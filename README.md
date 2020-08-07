@@ -88,7 +88,7 @@ Clean water, basic toilets and good hygiene practices are essential for the surv
  
  ## Modelling
  
- **Final Model Selected: Random Forest
+ **Final Model Selected: Random Forest**
  **Final Accuracy Score: 70.5%**
  ![final_model](https://github.com/edwardcheng22/Tanzania-Water-Wells-Project/blob/master/Images/final_models.png)
  

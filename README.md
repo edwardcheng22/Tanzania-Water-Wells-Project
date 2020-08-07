@@ -29,7 +29,7 @@ Clean water, basic toilets and good hygiene practices are essential for the surv
 
 * Filter data set
    * Convert all columns to contain only the top 5 most frequently seen values
-   * Used Boruta algorithm in later stages to determine which features I wanted to keep for my model 
+   * Use Boruta algorithm in later stages to determine which features I wanted to keep for my model 
 
 * Deal with categorical variables using dummy variables for modelling purposes
 
@@ -91,12 +91,20 @@ Clean water, basic toilets and good hygiene practices are essential for the surv
  **Final Model Selected: Random Forest**; **Final Accuracy Score: 70.5%**
  ![final_model](https://github.com/edwardcheng22/Tanzania-Water-Wells-Project/blob/master/Images/final_models.png)
  
+ # Conclusion
  
  ### Top 10 Features
  
  ![features](https://github.com/edwardcheng22/Tanzania-Water-Wells-Project/blob/master/Images/final_features.png)
  
+ **Next Steps**
  
+  * Trying different data cleaning methods
+  * Having more time to play around with combining unused features together
+  * Collect more data to train the model
+  * Transforming more categorical variables into numerical ones for modelling purposes
+  * Making predictions with another modelling algorithm such as XGBoost
+
  
  
   

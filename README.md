@@ -39,9 +39,11 @@ Clean water, basic toilets and good hygiene practices are essential for the surv
  
  ![well_condition](https://github.com/edwardcheng22/Tanzania-Water-Wells-Project/blob/master/Images/pie_chart.png)
  
+ 
  ### Date Recorded of Wells
  
  ![date](https://github.com/edwardcheng22/Tanzania-Water-Wells-Project/blob/master/Images/date_recorded.png)
+ 
  
  ### Construction Years of Wells
  
@@ -49,13 +51,16 @@ Clean water, basic toilets and good hygiene practices are essential for the surv
  
  ![constr_bar](https://github.com/edwardcheng22/Tanzania-Water-Wells-Project/blob/master/Images/construction_yr_bar.png)
  
+ 
  ### Distribution of the Altitude of Wells
  
  ![alt](https://github.com/edwardcheng22/Tanzania-Water-Wells-Project/blob/master/Images/gps_height.png)
  
+ 
  ### Distribution of the region codes of Wells
  
  ![region](https://github.com/edwardcheng22/Tanzania-Water-Wells-Project/blob/master/Images/region_code.png)
+ 
  
  ### Best Water Sources
  
@@ -63,25 +68,30 @@ Clean water, basic toilets and good hygiene practices are essential for the surv
  
  ![src_bar](https://github.com/edwardcheng22/Tanzania-Water-Wells-Project/blob/master/Images/water_sources.png)
  
+ 
  ### Best Water Quantity
  
  ![water_dist](https://github.com/edwardcheng22/Tanzania-Water-Wells-Project/blob/master/Images/water_quality_dist.png)
  
  ![water_bar](https://github.com/edwardcheng22/Tanzania-Water-Wells-Project/blob/master/Images/water_quantity.png)
  
+ 
  ### Best Water Quality
  
  ![water_qual](https://github.com/edwardcheng22/Tanzania-Water-Wells-Project/blob/master/Images/water_quality.png)
  
+ 
  ### Check for multicollinearity
  
  ![multi](https://github.com/edwardcheng22/Tanzania-Water-Wells-Project/blob/master/Images/multicoll.png)
+ 
  
  ## Modelling
  
  **Final Model Selected: Random Forest
  **Final Accuracy Score: 70.5%**
  ![final_model](https://github.com/edwardcheng22/Tanzania-Water-Wells-Project/blob/master/Images/final_models.png)
+ 
  
  ### Top 10 Features
  

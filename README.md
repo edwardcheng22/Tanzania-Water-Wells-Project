@@ -95,7 +95,7 @@ Clean water, basic toilets and good hygiene practices are essential for the surv
  
  ### Top 10 Features
  
- ![features](https://github.com/edwardcheng22/Tanzania-Water-Wells-Project/blob/master/Images/final_features.png)
+ ![features](https://github.com/edwardcheng22/Tanzania-Water-Wells-Project/blob/master/Images/features.png)
  
  **Next Steps**
  

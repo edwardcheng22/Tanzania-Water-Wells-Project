@@ -83,7 +83,7 @@ Clean water, basic toilets and good hygiene practices are essential for the surv
  
  ### Check for multicollinearity
  
- ![multi](https://github.com/edwardcheng22/Tanzania-Water-Wells-Project/blob/master/Images/multicoll.png)
+ ![multi](https://github.com/edwardcheng22/Tanzania-Water-Wells-Project/blob/master/Images/multicoll_1.png)
  
  
  ## Modelling
